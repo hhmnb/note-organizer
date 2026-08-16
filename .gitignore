@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+
+# 敏感配置文件（如果包含 API Key 等）
+config.json
+
+# OS
+Thumbs.db
+.DS_Store
